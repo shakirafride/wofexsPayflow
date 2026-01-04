@@ -1,5 +1,3 @@
-import { withBasePath } from "@/utils/urlHelper";
-import Image from "next/image";
 import Link from "next/link";
 
 const Logo: React.FC = () => {

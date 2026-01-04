@@ -27,7 +27,7 @@ const Banner = () => {
                         <h3 className='text-black opacity-75 text-lg font-normal text-center lg:text-start pt-8'>
                             Transform your business with our comprehensive payment management platform. 
                             Track invoices, manage payments, and gain valuable insights to grow your business 
-                            with PayFlow's intuitive dashboard and powerful analytics.
+                            with PayFlow&apos;s intuitive dashboard and powerful analytics.
                         </h3>
                         <div className='pt-8 mx-auto lg:mx-0'>
                             <button className='text-white text-xl font-medium py-6 px-12 rounded-full transition duration-300 border border-primary bg-primary hover:bg-transparent hover:text-primary'>

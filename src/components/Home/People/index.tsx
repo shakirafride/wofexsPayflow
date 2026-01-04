@@ -23,7 +23,7 @@ const People = () => {
                         </h2>
                         <h3 className='text-black/75 text-lg font-normal text-center lg:text-start pt-5 lg:pt-0'>
                             Join thousands of businesses that have streamlined their payment processes 
-                            and improved their cash flow with PayFlow's comprehensive payment management platform.
+                            and improved their cash flow with PayFlow&apos;s comprehensive payment management platform.
                         </h3>
                         <Link
                             href={'/'}

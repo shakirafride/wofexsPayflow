@@ -12,7 +12,7 @@ const Features = () => {
                     Powerful Features for Your Business.
                 </h2>
                 <p className='text-black/60 text-lg text-center max-w-70% mx-auto'>
-                    Discover how PayFlow's comprehensive suite of tools can transform your 
+                    Discover how PayFlow&apos;s comprehensive suite of tools can transform your 
                     payment management and help you make better business decisions.
                 </p>
                 <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-16 gap-y-4 lg:gap-x-8 mt-10'>
