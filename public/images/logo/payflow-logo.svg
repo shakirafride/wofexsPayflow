@@ -1,0 +1,8 @@
+<svg width="250" height="50" viewBox="0 0 250 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange rounded square with P -->
+  <rect width="50" height="50" rx="12" fill="#FF6B35"/>
+  <text x="25" y="35" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold">P</text>
+  
+  <!-- PayFlow text -->
+  <text x="65" y="35" fill="#2D3748" font-family="Arial, sans-serif" font-size="32" font-weight="600">PayFlow</text>
+</svg>
